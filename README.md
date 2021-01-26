@@ -7,10 +7,11 @@
 GigMe is the product of a hackathon. More specifcally [Codechella by Twitter](). Since it was made under 3 days, it currently requires a complete redesign and more importantly a new name but I think we can work with this right now. 
 
 GigMe currently queries tweets and find tweets providing some "Gig". We all have seen [tweets like this](https://twitter.com/SSebi_/status/1333459190199824387) asking for someone for some gigs, right?  This app will curate all the gigs for a particular role and present it to you in a dense, and easy to read form. I believe we can expand it to query for internships and job offer. Wait. Why should we stop at twitter? I think we can query LinkedIn, Facebook, probably any social platform.
-<p align = "left"><img src = "UI-Pics/gallery-2_iphone12prographite_portrait.png" width = "20%" height = "20%">
+<p align = "left"><img src = "UI-Pics/original_iphone12prographite_portrait.png" width = "20%" height = "20%">
+ <img src = "UI-Pics/gallery-2_iphone12prographite_portrait.png" width = "20%" height = "20%">
 <img src = "UI-Pics/gallery-3_iphone12prographite_portrait.png" width = "20%" height = "20%">
 <img src = "UI-Pics/gallery-5_iphone12prographite_portrait.png" width = "20%" height = "20%">
-<img src = "UI-Pics/gallery-6_iphone12prographite_portrait.png" width = "20%" height = "20%"></p>
+ <img src = "UI-Pics/gallery-6_iphone12prographite_portrait.png" width = "20%" height = "20%"></p>
 
 ## 👾 Technologies
 > To help scale development, this app is built using the MVC design pattern. subsequent changes made by contributors do not affect the central architecture.
