@@ -3,6 +3,7 @@
 [![App Store](https://img.shields.io/badge/App%20Store-Coming%20Soon-orange.svg?style=for-the-badge)]()
 
 # GigMe
+[![Swift 5.0](https://img.shields.io/badge/Swift-5.0-green.svg?style=flat)](https://developer.apple.com/swift/)
 ### A Hackathon Project
 GigMe is the product of a hackathon. More specifcally [Codechella by Twitter](). Since it was made under 3 days, it currently requires a complete redesign and more importantly a new name but I think we can work with this right now. 
 
